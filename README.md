@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbyorke
 - 👀 I’m interested in Running, Reading, Coding and Dogs. 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently undertaking an apprenticeship in Artificial Intelligence and Data Science at Northeastern University London.
 - 😄 Pronouns: he/him
 
 <!---
